@@ -5,17 +5,18 @@ body {
 h1 {
   font-family: Arial, Helvetica, sans-serif;
   color: #bb8623;
-  position: relative;
-  left: 6%;
-  margin-top: 100px;
+  position: absolute;
+  font-size: 4vw;
+  left: 40vw;
+  margin-top: 75px;
 }
 
 .footer {
   font-family: Arial, Helvetica, sans-serif;
   color: #bb8623;
   position: absolute;
-  top: 35%;
-  left: 7%;
+  top: 40vh;
+  left: 43vw;
   margin-top: 100px;
 }
 
@@ -23,8 +24,8 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   color: #bb8623;
   position: absolute;
-  top: 37%;
-  left: 6.5%;
+  top: 43vh;
+  left: 42.5vw;
   margin-top: 100px;
 }
 
@@ -32,19 +33,19 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   border: none;
   background-color: #18085d;
-  padding: 15px 32px;
+  padding: 2vh 3vw;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   border-radius: 100px;
   transition-duration: 0.4s;
-  font-size: 24px;
+  font-size: 3vh;
 
 }
 
 .twitch {
     position: absolute;
-    left: 2%;
+    left: 35vw;
     top: 150px;
 }
 
@@ -54,7 +55,7 @@ h1 {
 
 .twitter {
     position: absolute;
-    left: 19%;
+    left: 55vw;
     top: 150px;
 }
 
@@ -64,7 +65,7 @@ h1 {
 
 .youtube {
     position: absolute;
-    left: 2%;
+    left: 35vw;
     top: 230px;
 }
 
@@ -74,7 +75,7 @@ h1 {
 
 .trovo {
     position: absolute;
-    left: 20%;
+    left: 56vw;
     top: 230px;
 }
 
@@ -84,7 +85,7 @@ h1 {
 
 .github {
     position: absolute;
-    left: 10%;
+    left: 45vw;
     top: 310px;
 }
 
