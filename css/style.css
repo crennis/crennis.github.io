@@ -1,10 +1,10 @@
 body {
-  background-color: #1a001a;
+  background-color: #020132;
 }
 
 h1 {
   font-family: Arial, Helvetica, sans-serif;
-  color: #660033;
+  color: #bb8623;
   position: relative;
   left: 44%;
   margin-top: 100px;
@@ -12,9 +12,9 @@ h1 {
 
 .footer {
   font-family: Arial, Helvetica, sans-serif;
-  color: #660033;
+  color: #bb8623;
   position: absolute;
-  bottom: 50%;
+  bottom: 25%;
   left: 40%;
   margin-top: 100px;
 }
@@ -22,8 +22,7 @@ h1 {
 .button {
   font-family: Arial, Helvetica, sans-serif;
   border: none;
-  background-color: #e0ccff;
-  border: 5px solid #9146FF;
+  background-color: #18085d;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -42,7 +41,6 @@ h1 {
 
 .twitch:hover {
   background-color: #9146FF;
-  border: 5px solid #9146FF;
 }
 
 .twitter {
@@ -53,7 +51,6 @@ h1 {
 
 .twitter:hover {
   background-color: #9146FF;
-  border: 5px solid #9146FF;
 }
 
 .youtube {
@@ -64,7 +61,6 @@ h1 {
 
 .youtube:hover {
   background-color: #9146FF;
-  border: 5px solid #9146FF;
 }
 
 .trovo {
@@ -75,7 +71,6 @@ h1 {
 
 .trovo:hover {
   background-color: #9146FF;
-  border: 5px solid #9146FF;
 }
 
 .github {
@@ -86,5 +81,4 @@ h1 {
 
 .github:hover {
   background-color: #9146FF;
-  border: 5px solid #9146FF;
 }

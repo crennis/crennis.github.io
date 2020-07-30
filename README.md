@@ -6,10 +6,10 @@ Feel free to use this as a Template for you!
 
 ToDo:
 
--Better coloring
-
--Better way to position the buttons
+-Better coloring (Done)
 
 -Mobile friendly UI
+
+-Better way to position the buttons
 
 -More cool pages
