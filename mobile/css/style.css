@@ -1,0 +1,93 @@
+body {
+  background-color: #020132;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #bb8623;
+  position: relative;
+  left: 6%;
+  margin-top: 100px;
+}
+
+.footer {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #bb8623;
+  position: absolute;
+  top: 35%;
+  left: 7%;
+  margin-top: 100px;
+}
+
+.footer2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #bb8623;
+  position: absolute;
+  top: 37%;
+  left: 6.5%;
+  margin-top: 100px;
+}
+
+.button {
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  background-color: #18085d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 100px;
+  transition-duration: 0.4s;
+  font-size: 24px;
+
+}
+
+.twitch {
+    position: absolute;
+    left: 2%;
+    top: 150px;
+}
+
+.twitch:hover {
+  background-color: #9146FF;
+}
+
+.twitter {
+    position: absolute;
+    left: 19%;
+    top: 150px;
+}
+
+.twitter:hover {
+  background-color: #9146FF;
+}
+
+.youtube {
+    position: absolute;
+    left: 2%;
+    top: 230px;
+}
+
+.youtube:hover {
+  background-color: #9146FF;
+}
+
+.trovo {
+    position: absolute;
+    left: 20%;
+    top: 230px;
+}
+
+.trovo:hover {
+  background-color: #9146FF;
+}
+
+.github {
+    position: absolute;
+    left: 10%;
+    top: 310px;
+}
+
+.github:hover {
+  background-color: #9146FF;
+}

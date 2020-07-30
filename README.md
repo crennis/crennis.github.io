@@ -8,7 +8,7 @@ ToDo:
 
 -Better coloring (Done)
 
--Mobile friendly UI
+-Mobile friendly UI (Done)
 
 -Better way to position the buttons
 
