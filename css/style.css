@@ -6,37 +6,37 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   color: #bb8623;
   position: relative;
-  left: 44%;
-  margin-top: 100px;
+  font-size: 2.5vw;
+  left: 41vw;
+  margin-top: 2vw;
 }
 
 .footer {
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 1vw;
   color: #bb8623;
   position: absolute;
-  bottom: 25%;
-  left: 40%;
-  margin-top: 100px;
+  bottom: 20vh;
+  left: 38vw;
 }
 
 .button {
   font-family: Arial, Helvetica, sans-serif;
   border: none;
   background-color: #18085d;
-  padding: 15px 32px;
+  padding: 2vh 1.5vw;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 100px;
+  border-radius: 60px;
   transition-duration: 0.4s;
-  font-size: 24px;
-
+  font-size: 2vw;
 }
 
 .twitch {
     position: absolute;
-    left: 46%;
-    top: 150px;
+    left: 37vw;
+    top: 15vh;
 }
 
 .twitch:hover {
@@ -45,8 +45,8 @@ h1 {
 
 .twitter {
     position: absolute;
-    left: 38%;
-    top: 150px;
+    left: 46vw;
+    top: 15vh;
 }
 
 .twitter:hover {
@@ -55,8 +55,8 @@ h1 {
 
 .youtube {
     position: absolute;
-    left: 53.9%;
-    top: 150px;
+    left: 55vw;
+    top: 15vh;
 }
 
 .youtube:hover {
@@ -65,8 +65,8 @@ h1 {
 
 .trovo {
     position: absolute;
-    left: 42.5%;
-    top: 230px;
+    left: 41.5vw;
+    top: 25vh;
 }
 
 .trovo:hover {
@@ -75,8 +75,8 @@ h1 {
 
 .github {
     position: absolute;
-    left: 50%;
-    top: 230px;
+    left: 51vw;
+    top: 25vh;
 }
 
 .github:hover {
