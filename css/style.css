@@ -1,84 +1,54 @@
 body {
-  background-color: #020132;
+  background-color: #1a0033;
 }
 
-h1 {
-  font-family: Arial, Helvetica, sans-serif;
+.title {
+  text-align: center;
+  font-family: Arial;
+  padding: 10px 30px 10px;
   color: #bb8623;
-  position: relative;
-  font-size: 2.5vw;
-  left: 41vw;
-  margin-top: 2vw;
+  font-size: 20px;
 }
 
-.footer {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1vw;
-  color: #bb8623;
-  position: absolute;
-  bottom: 20vh;
-  left: 38vw;
+.block {
+  width: 100%;
+  text-align: center;
 }
 
-.button {
-  font-family: Arial, Helvetica, sans-serif;
+.buttons {
+  font-family: Arial;
   border: none;
-  background-color: #18085d;
-  padding: 2vh 1.5vw;
+  color: #bb8623;
+  background-color: #28004d;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   border-radius: 60px;
   transition-duration: 0.4s;
-  font-size: 2vw;
+  font-size: 20px;
+}
+
+.footer {
+  font-family: Arial;
+  font-size: 20px;
+  color: #bb8623;
+  padding: 200px 20px 10px;
+  text-align: center;
+}
+
+.buttons:hover {
+  background-color: white;
 }
 
 .twitch {
-    position: absolute;
-    left: 37vw;
-    top: 15vh;
+  padding: 20px 30px;
 }
-
-.twitch:hover {
-  background-color: #9146FF;
-}
-
 .twitter {
-    position: absolute;
-    left: 46vw;
-    top: 15vh;
+  padding: 20px 30px;
 }
-
-.twitter:hover {
-  background-color: #9146FF;
+.youtube{
+  padding: 20px 30px;
 }
-
-.youtube {
-    position: absolute;
-    left: 55vw;
-    top: 15vh;
-}
-
-.youtube:hover {
-  background-color: #9146FF;
-}
-
-.trovo {
-    position: absolute;
-    left: 41.5vw;
-    top: 25vh;
-}
-
-.trovo:hover {
-  background-color: #9146FF;
-}
-
 .github {
-    position: absolute;
-    left: 51vw;
-    top: 25vh;
-}
-
-.github:hover {
-  background-color: #9146FF;
+  padding: 20px 30px;
 }
