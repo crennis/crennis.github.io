@@ -40,15 +40,6 @@ body {
   background-color: white;
 }
 
-.twitch {
-  padding: 20px 30px;
-}
-.twitter {
-  padding: 20px 30px;
-}
-.youtube{
-  padding: 20px 30px;
-}
-.github {
+.button {
   padding: 20px 30px;
 }
