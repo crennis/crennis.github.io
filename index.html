@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>crennis' Home</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <script data-ad-client="ca-pub-4136916862954948" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
   <body>
     <div class="title">
@@ -34,11 +33,28 @@
         function show(elementId) {
           document.getElementById("ad").style.display="none";
           document.getElementById(elementId).style.display="block";
+          document.getElementById("btn").style.display="none";
         }
       </script>
-      <button class="buttons" type="button" onclick="show('ad');">Werbung anzeigen um mich zu Supporten!</button>
+      <button id="btn" class="buttons" type="button" onclick="show('ad');">Werbung Anzeigen</button>
       <div id="ad"  style="display:none">
-        <p>Kommt noch, hoffentlich</p>
+        <script type="text/javascript">
+          <!--
+          adnetTag={
+        	   format:['300x50'],
+      	    section:0,
+            topPub:2656
+          };
+          var p=window.location.protocol;
+          if(p!='http:')p='https:';
+            document.write('<script type="text/javascript" src="'+p+'//ad.adnet.de/ad2.js"></'+'script>');
+            //-->
+        </script>
+        <noscript>
+        	<a href="//ad.adnet.de/adc.php?s=0;wxh=300x50">
+        		<img src="//ad.adnet.de/adi.php?s=0;wxh=300x50" width="300" height="50" border="0" alt="">
+        	</a>
+        </noscript>
       </div>
     </div>
   </body>
